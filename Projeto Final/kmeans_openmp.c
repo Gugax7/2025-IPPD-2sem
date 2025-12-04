@@ -1,3 +1,6 @@
+//Versão paralelizada com OpenMP
+//GRUPO 5: Felipe Matsuo, Guilherme Bisse, Gustavo Salmazo, Lucas Alberto, Pedro Ito, Pietro Franca.
+
 #define _POSIX_C_SOURCE 199309L  // Necessário para CLOCK_MONOTONIC
 #include <limits.h>              // Para LLONG_MAX
 #include <stdio.h>
@@ -227,3 +230,4 @@ int main(int argc, char* argv[]) {
 
   return EXIT_SUCCESS;
 }
+
