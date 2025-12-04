@@ -1,7 +1,7 @@
 
 # Projeto Final - Clusterização K-Means Paralelo
+# GRUPO 5: Felipe Matsuo, Guilherme Bisse, Gustavo Salmazo, Lucas Alberto, Pedro Ito, Pietro Franca.
 
-GRUPO 5: Felipe Matsuo, Guilherme Bisse, Gustavo Salmazo, Lucas Alberto, Pedro Ito, Pietro Franca.
 
 Este repositório contém o material base para o projeto final da disciplina. Após dominarem problemas clássicos de computação paralela e distribuída, o desafio final é aplicar seus conhecimentos de paralelismo e otimização a um problema fundamental de Machine Learning. O desafio deste projeto é **paralelizar e otimizar um código sequencial fornecido** que implementa o algoritmo de clusterização K-Means, visando o máximo de desempenho em um grande volume de dados.
 
