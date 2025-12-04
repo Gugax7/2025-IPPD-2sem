@@ -1,3 +1,6 @@
+// Versão paralelizada com MPI
+//GRUPO 5: Felipe Matsuo, Guilherme Bisse, Gustavo Salmazo, Lucas Alberto, Pedro Ito, Pietro Franca.
+
 #define _POSIX_C_SOURCE 199309L
 #include <limits.h>
 #include <stdio.h>
@@ -230,3 +233,4 @@ int main(int argc, char* argv[]) {
     MPI_Finalize();
     return EXIT_SUCCESS;
 }
+
